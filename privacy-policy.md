@@ -30,3 +30,8 @@ __DATA WE COLLECT__
 ```md
    i) Welcomer Setup
 ```
+
+
+__DO WE SHARE OUR COLLECTED DATA WITH ANYONE?__
+
+No, We do NOT share any of our user/server data, since we know how important privacy is for every one of us.
