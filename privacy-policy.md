@@ -21,6 +21,7 @@ __DATA WE COLLECT__
 ```md
    i) Various User Based Settings
   ii) Data Encrypting
+ iii) Badges System
 ```
 
 <br><br>
