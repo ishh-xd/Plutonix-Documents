@@ -1,3 +1,3 @@
 # Plutonix-Policy
-Policies of Plutonix discord bot.
+Policies of Ishh's all discord bot.
 
