@@ -1,3 +1,3 @@
 # Plutonix-Policy
-Policies of Ishh's all discord bot.
+Privacy Policy and Terms of Service.
 
